@@ -1,6 +1,5 @@
-# RocketSeat
-## trilha-reactjs
+# trilha-reactjs
 
-### Chapter I
+## Chapter I
 
 Desafio 01: Conceitos do React
